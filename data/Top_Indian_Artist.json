@@ -1,507 +1,507 @@
 [
   {
     "A": "Artist_Name",
-    "B": "Today_Score",
-    "C": "Image_Url"
+    "B": "Score",
+    "C": "Songs_in_Top200"
   },
   {
-    "A": "Arun Kumar",
-    "B": "18055",
-    "C": "https://i.scdn.co/image/ab6761610000517495c5abfef5b88f8eb4204c94"
+    "A": "Shashwat Sachdev",
+    "B": "19851",
+    "C": "https://i.scdn.co/image/ab6761610000517454f120e72388f1c5c3aa3edd"
   },
   {
-    "A": "Deepa Miriam",
-    "B": "16461",
-    "C": "https://i.scdn.co/image/ab6742d3000052b7518ba389bb388c410abb8bae"
+    "A": "Pritam",
+    "B": "10159",
+    "C": "https://i.scdn.co/image/ab67616100005174cb6926f44f620555ba444fca"
   },
   {
-    "A": "Dola Ganguly",
-    "B": "14009",
-    "C": "https://i.scdn.co/image/ab67616d00001e02e4fc875fed09fbaa9d5c6e0a"
+    "A": "Sachin-Jigar",
+    "B": "7952",
+    "C": "https://i.scdn.co/image/ab67616100005174bb4064bef3a825344d5eb79e"
   },
   {
-    "A": "Manish Paul",
-    "B": "12391",
-    "C": "https://i.scdn.co/image/ab67616d00001e025b1d19ec43b2d2433fccac18"
+    "A": "Karan Aujla",
+    "B": "7716",
+    "C": "https://i.scdn.co/image/ab676161000051748a4c60d0eebe893f72e42979"
   },
   {
-    "A": "DJ Sunny Sarid",
-    "B": "8219",
-    "C": "https://i.scdn.co/image/ab676161000051747bf3cbf835f3f235f1022fe2"
+    "A": "Arijit Singh",
+    "B": "7456",
+    "C": "https://i.scdn.co/image/ab676161000051745ba2d75eb08a2d672f9b69b7"
   },
   {
-    "A": "Tanay Gagrani",
-    "B": "5237",
-    "C": "https://i.scdn.co/image/ab67616100005174bacd5f2118f1f10fb96a1ad5"
+    "A": "Atif Aslam",
+    "B": "6677",
+    "C": "https://i.scdn.co/image/ab67616100005174c40600e02356cc86f0debe84"
   },
   {
-    "A": "Uday Shankar",
-    "B": "4769",
-    "C": "https://i.scdn.co/image/ab67616d00001e02eb1d153f7ac88789397a1999"
+    "A": "BTS",
+    "B": "5613",
+    "C": "https://i.scdn.co/image/ab67616100005174f80ec63ea7a0ef0fba60957d"
   },
   {
-    "A": "Suburban Kid",
-    "B": "3496",
-    "C": "https://i.scdn.co/image/ab6761610000517457bd9a4c741d53d63d039e20"
+    "A": "Anuv Jain",
+    "B": "5458",
+    "C": "https://i.scdn.co/image/ab67616100005174a837a6cb82dd949d5e1f9b53"
   },
   {
-    "A": "Sheershak Anand",
-    "B": "3343",
-    "C": "https://i.scdn.co/image/ab676161000051741495cdebec613850a3cde500"
+    "A": "Masoom Sharma",
+    "B": "4539",
+    "C": "https://i.scdn.co/image/ab676161000051742cf6d06726cbbf929c6d37d8"
   },
   {
-    "A": "Basil Rai",
-    "B": "2674",
-    "C": "https://i.scdn.co/image/ab67616100005174bc2a795e5f267471dace6b96"
+    "A": "Aditya Rikhari",
+    "B": "4322",
+    "C": "https://i.scdn.co/image/ab67616100005174482c8b15eab378fdebc5e05e"
   },
   {
-    "A": "Rajan Chelliah",
-    "B": "2655",
-    "C": "https://i.scdn.co/image/ab67616d00001e02136bc46508840429384fad6f"
+    "A": "Dhanda Nyoliwala",
+    "B": "4314",
+    "C": "https://i.scdn.co/image/ab67616100005174816ad67bfe38d59ad0bc3a88"
   },
   {
-    "A": "Munnu Singer",
-    "B": "2589",
-    "C": "https://i.scdn.co/image/ab67616100005174c7c230ad4756b156396d124a"
+    "A": "A.R. Rahman",
+    "B": "4221",
+    "C": "https://i.scdn.co/image/ab67616100005174b19af0ea736c6228d6eb539c"
   },
   {
-    "A": "Sumitra Iyer",
-    "B": "2577",
-    "C": "https://i.scdn.co/image/ab6761610000517468e06f49515616ae9bb26d7d"
+    "A": "Jeet Gannguli",
+    "B": "3446",
+    "C": "https://i.scdn.co/image/ab676161000051746adc98db259e563ee2352b85"
   },
   {
-    "A": "Mahfooz Khan",
-    "B": "2577",
-    "C": "https://i.scdn.co/image/ab67616100005174250a73f7903c4aec1c471bbe"
+    "A": "Shankar-Ehsaan-Loy",
+    "B": "3442",
+    "C": "https://i.scdn.co/image/ab676161000051743db0499a689aa9b4a47ebba3"
+  },
+  {
+    "A": "Vishal-Shekhar",
+    "B": "3427",
+    "C": "https://i.scdn.co/image/ab6761610000517490b6c3d093f9b02aad628eaf"
+  },
+  {
+    "A": "Vikram Sarkar",
+    "B": "3391",
+    "C": "https://i.scdn.co/image/ab6761610000517466c49b2a809de1ce4762cc8c"
+  },
+  {
+    "A": "Vishal Mishra",
+    "B": "3222",
+    "C": "https://i.scdn.co/image/ab676161000051742ab7328003efce0578d1ed91"
+  },
+  {
+    "A": "Sai Abhyankkar",
+    "B": "3211",
+    "C": "https://i.scdn.co/image/ab676161000051740a27dbc5eb270fd2e78b9cbb"
+  },
+  {
+    "A": "Faheem Abdullah",
+    "B": "3180",
+    "C": "https://i.scdn.co/image/ab67616100005174601c9af2aea18ce8c43abbb3"
+  },
+  {
+    "A": "Sachet Tandon",
+    "B": "2327",
+    "C": "https://i.scdn.co/image/ab67616100005174e34fad78221a2cb31da57946"
+  },
+  {
+    "A": "Guru Randhawa",
+    "B": "2258",
+    "C": "https://i.scdn.co/image/ab67616100005174531f6fb5759f44e7c3d707d6"
+  },
+  {
+    "A": "AP Dhillon",
+    "B": "2241",
+    "C": "https://i.scdn.co/image/ab67616100005174fb505b37709fa86cfd8f55b3"
+  },
+  {
+    "A": "Cheema Y",
+    "B": "2238",
+    "C": "https://i.scdn.co/image/ab676161000051748acd9439506d057719cb4446"
   },
   {
     "A": "Kailash Kher",
-    "B": "2367",
+    "B": "2222",
     "C": "https://i.scdn.co/image/ab67616100005174c6d179e514b5cfe685f19a2e"
   },
   {
-    "A": "MD Beats",
-    "B": "2215",
-    "C": "https://i.scdn.co/image/ab67616100005174aef8faeef36bb574b3522d8e"
+    "A": "Amanraj Gill",
+    "B": "2211",
+    "C": "https://i.scdn.co/image/ab676161000051748fee197e04a339b998ec5922"
   },
   {
-    "A": "Achala Sachdev",
-    "B": "2204",
-    "C": "https://i.scdn.co/image/ab67616d00001e024ae1c1bdb262b83df703e7d0"
+    "A": "Anand Raj Anand",
+    "B": "2195",
+    "C": "https://i.scdn.co/image/ab67616100005174d0c4050859e273477e1f2b9b"
   },
   {
-    "A": "Narottam Bain",
-    "B": "1937",
-    "C": "https://i.scdn.co/image/ab67616d00001e02140b60ea149a7eed09cd7a82"
+    "A": "Paresh Pahuja",
+    "B": "2186",
+    "C": "https://i.scdn.co/image/ab676161000051746098f840d915bf830197cc6f"
   },
   {
-    "A": "Satish Sadan",
-    "B": "1797",
-    "C": "https://i.scdn.co/image/ab676161000051743827b661dd29e40f5789496a"
+    "A": "Banjaare",
+    "B": "2185",
+    "C": "https://i.scdn.co/image/ab6761610000517446914914e8dabd2c39a69a76"
   },
   {
-    "A": "Sitar Metal",
-    "B": "1786",
-    "C": "https://i.scdn.co/image/ab6761610000517411ba33dee719f7219daf0c87"
+    "A": "Talwiinder",
+    "B": "2182",
+    "C": "https://i.scdn.co/image/ab676161000051743966ca5f9b36d4a5d3d7f6b1"
   },
   {
-    "A": "Belli Lalitha",
-    "B": "1778",
-    "C": "https://i.scdn.co/image/ab67616100005174a0bb6f1f7e23cb20861da7c3"
+    "A": "Jasleen Royal",
+    "B": "2175",
+    "C": "https://i.scdn.co/image/ab67616100005174852737800de564b2c0efe165"
   },
   {
-    "A": "Savita Devi",
-    "B": "1713",
-    "C": "https://i.scdn.co/image/ab67616d00001e027965130b1e6477dad081591a"
+    "A": "Sachet-Parampara",
+    "B": "2094",
+    "C": "https://i.scdn.co/image/ab676161000051749415df28058107b5d54f9fad"
   },
   {
-    "A": "Luckee Ln",
-    "B": "1609",
-    "C": "https://i.scdn.co/image/ab6761610000517440a4fa32ffab340bda194747"
+    "A": "Mithoon",
+    "B": "2089",
+    "C": "https://i.scdn.co/image/ab676161000051749bd641ceb72d35b63fbb314a"
   },
   {
-    "A": "Amrita Kak",
-    "B": "1472",
-    "C": "https://i.scdn.co/image/ab676161000051745a6250357ea440e6e541bb5d"
+    "A": "Gajendra Verma",
+    "B": "2077",
+    "C": "https://i.scdn.co/image/ab67616100005174c0d6c475ec2156fa07a11c67"
   },
   {
-    "A": "Sharad Rao",
-    "B": "1415",
-    "C": "https://i.scdn.co/image/ab676161000051740821c95bd10ebb2b71102f26"
+    "A": "Abhijeet",
+    "B": "1200",
+    "C": "https://i.scdn.co/image/ab6761610000517420508d4335cdc0a3ec65a3aa"
   },
   {
-    "A": "Anurag Pandit",
-    "B": "1345",
-    "C": "https://i.scdn.co/image/ab67616d00001e02a355f29b72c5b52c439c9035"
+    "A": "Navaan Sandhu",
+    "B": "1199",
+    "C": "https://i.scdn.co/image/ab676161000051746c0d944d3e236316a855cc59"
   },
   {
-    "A": "Anil Biswas",
-    "B": "1337",
-    "C": "https://i.scdn.co/image/ab67616d00001e0209f63e442ce7e1bae64b8091"
+    "A": "Sabrina Carpenter",
+    "B": "1198",
+    "C": "https://i.scdn.co/image/ab6761610000517478e45cfa4697ce3c437cb455"
   },
   {
-    "A": "Ravi Shankar",
-    "B": "1318",
-    "C": "https://i.scdn.co/image/ab6761610000517408f0602fd1c3de5761ef9a4d"
+    "A": "Ankit Tiwari",
+    "B": "1197",
+    "C": "https://i.scdn.co/image/ab67616100005174508b6c4016930382af5ea17f"
   },
   {
-    "A": "Ammy Virk",
-    "B": "1265",
-    "C": "https://i.scdn.co/image/ab67616100005174826f384334f35ca271847e6c"
+    "A": "Hunny",
+    "B": "1195",
+    "C": "https://i.scdn.co/image/ab67616100005174e35767edfedd94b5d4ee46ba"
   },
   {
-    "A": "Shweta Mohan",
+    "A": "Mitraz",
+    "B": "1192",
+    "C": "https://i.scdn.co/image/ab67616100005174e96a339b04840c8fb801ccb4"
+  },
+  {
+    "A": "Kamal Khan",
+    "B": "1190",
+    "C": "https://i.scdn.co/image/ab676161000051741a853076998c205107107ecf"
+  },
+  {
+    "A": "Filmy",
     "B": "1187",
-    "C": "https://i.scdn.co/image/ab676161000051746c88b5f7f43673d7da82976e"
+    "C": "https://i.scdn.co/image/ab67616100005174d2c79b802d227916f121dc67"
   },
   {
-    "A": "Coma Conscience",
-    "B": "1048",
-    "C": "https://i.scdn.co/image/ab67616d00001e027b5e3f5b996e8a88642df530"
+    "A": "Mohit Ladhotiya",
+    "B": "1186",
+    "C": "https://i.scdn.co/image/ab67616d00001e02f342577c1027b6abf46e8c47"
   },
   {
-    "A": "Dev Anand",
-    "B": "1000",
-    "C": "https://i.scdn.co/image/ab67616100005174c18f44d220b32ff688a58482"
+    "A": "Mohit Chauhan",
+    "B": "1185",
+    "C": "https://i.scdn.co/image/ab6761610000517416691117e2ba803946b203ba"
   },
   {
-    "A": "Tejas Kolekar",
-    "B": "932",
-    "C": "https://i.scdn.co/image/ab676161000051741be1799a1521021a7283a867"
+    "A": "Amit Trivedi",
+    "B": "1180",
+    "C": "https://i.scdn.co/image/ab67616100005174a37271f7a4862a6e99ce345f"
   },
   {
-    "A": "Arun Ingle",
-    "B": "908",
-    "C": "https://i.scdn.co/image/ab67616d00001e02a626cb670faced126aa02b41"
+    "A": "Anand Bhaskar",
+    "B": "1178",
+    "C": "https://i.scdn.co/image/ab67616100005174d5bb270558738cb8542845fd"
   },
   {
-    "A": "Nigar Sultana",
-    "B": "887",
-    "C": "https://i.scdn.co/image/ab67616d00001e02a622aa05bd343b40ad43b81c"
+    "A": "Boney M.",
+    "B": "1175",
+    "C": "https://i.scdn.co/image/ab67616100005174af50264c42782538634391f9"
   },
   {
-    "A": "MC Sanna",
-    "B": "871",
-    "C": "https://i.scdn.co/image/ab67616100005174e884a1b1f3cb88d33948ece3"
+    "A": "Kishore Kumar",
+    "B": "1162",
+    "C": "https://i.scdn.co/image/ab67616100005174c9ac92d87de28795c1c49730"
   },
   {
-    "A": "Bhushan Mate",
-    "B": "798",
-    "C": "https://i.scdn.co/image/ab67616100005174f100bd880bbd8871fed35f0f"
+    "A": "Shaarib Toshi",
+    "B": "1160",
+    "C": "https://i.scdn.co/image/ab676161000051742fc11c068e71fdc6f848d1ab"
   },
   {
-    "A": "Meeta Pandit",
-    "B": "729",
-    "C": "https://i.scdn.co/image/ab676161000051745117fdf43c939e910d72ac31"
+    "A": "Flipperachi",
+    "B": "1159",
+    "C": "https://i.scdn.co/image/ab676161000051746a4c1c7fc4e71e565859d5cc"
   },
   {
-    "A": "Dragon Vibe",
-    "B": "726",
-    "C": "https://i.scdn.co/image/ab67616100005174e1db69443a33aef23cd90430"
+    "A": "Lady Gaga",
+    "B": "1154",
+    "C": "https://i.scdn.co/image/ab67616100005174aadc18cac8d48124357c38e6"
   },
   {
-    "A": "Elly Mangat",
-    "B": "723",
-    "C": "https://i.scdn.co/image/ab676161000051742441cd8a0238f9ab770b2555"
+    "A": "Roop Kumar Rathod",
+    "B": "1150",
+    "C": "https://i.scdn.co/image/ab67616100005174ed9f71fa78741d6b30cb7d49"
   },
   {
-    "A": "Akdas Hayat",
-    "B": "702",
-    "C": "https://i.scdn.co/image/ab67616100005174e005997dc2db376c9c12c2a7"
+    "A": "Maan Panu",
+    "B": "1149",
+    "C": "https://i.scdn.co/image/ab6761610000517400d94bbdf119e16d605d0b05"
   },
   {
-    "A": "Taba Chake",
-    "B": "670",
-    "C": "https://i.scdn.co/image/ab67616100005174d06b335a2f0f4fde967a4fbf"
+    "A": "Anurag Saikia",
+    "B": "1148",
+    "C": "https://i.scdn.co/image/ab6761610000517490a9f16b862b8d8efc4ab7aa"
   },
   {
-    "A": "Neelanjana Ray",
-    "B": "632",
-    "C": "https://i.scdn.co/image/ab67616100005174c7be8be64a54cdbfc93e0461"
+    "A": "Mohammed Irfan",
+    "B": "1147",
+    "C": "https://i.scdn.co/image/ab67616100005174b074074cf866ba3b3ebc09a6"
   },
   {
-    "A": "Dab Mode",
-    "B": "613",
-    "C": "https://i.scdn.co/image/ab6761610000517448d4071556d1cce36e15979c"
+    "A": "Ayushmann Khurrana",
+    "B": "1146",
+    "C": "https://i.scdn.co/image/ab67616100005174f3019edbf35807dc84dde492"
   },
   {
-    "A": "Robbie Styles",
-    "B": "578",
-    "C": "https://i.scdn.co/image/ab676161000051741f0df0046dfa4abd7ba178c3"
+    "A": "Krish Mondal",
+    "B": "1145",
+    "C": "https://i.scdn.co/image/ab67616100005174f63dcef22264cb0a2952d4d5"
   },
   {
-    "A": "Sarita Pandit",
-    "B": "564",
-    "C": "https://i.scdn.co/image/ab67616d00001e02688cc251285fc42d5c2019dd"
+    "A": "sufr",
+    "B": "1144",
+    "C": "https://i.scdn.co/image/ab676161000051748e9eedbb8fc10361c3f3684d"
   },
   {
-    "A": "Mami Varte",
-    "B": "528",
-    "C": "https://i.scdn.co/image/ab676161000051741e17c9f157632ef6f596311c"
+    "A": "Javed-Mohsin",
+    "B": "1143",
+    "C": "https://i.scdn.co/image/ab676161000051748a40587c51625baf4a070c29"
   },
   {
-    "A": "Dhani Gundecha",
-    "B": "515",
-    "C": "https://i.scdn.co/image/ab67616d00001e0235da644474a4e36cdf82dba2"
+    "A": "Amaal Mallik",
+    "B": "1142",
+    "C": "https://i.scdn.co/image/ab67616100005174c1559c29cb61d249075a8b86"
   },
   {
-    "A": "Devansu Rathva",
-    "B": "475",
-    "C": "https://i.scdn.co/image/ab676161000051746b800f1439822c0496acfc56"
+    "A": "Ashish Bhatia",
+    "B": "1141",
+    "C": "https://i.scdn.co/image/ab67616100005174fff135966711bdbcca2b04de"
   },
   {
-    "A": "Verma Malik",
-    "B": "464",
-    "C": "https://i.scdn.co/image/ab67616d00001e02435c755338e720ea501d8d5f"
+    "A": "Mr Dutt",
+    "B": "1136",
+    "C": "https://i.scdn.co/image/ab676161000051748e25968e93cd1e6ee9cc28d6"
   },
   {
-    "A": "Dev Kohli",
-    "B": "424",
-    "C": "https://i.scdn.co/image/ab67616d00001e02fd746356c5cae3f0702bacc6"
+    "A": "Sabat Batin",
+    "B": "1134",
+    "C": "https://i.scdn.co/image/ab67616100005174cabf1ae087f68e78a43f56e0"
   },
   {
-    "A": "DJ Starling",
-    "B": "399",
-    "C": "https://i.scdn.co/image/ab67616100005174a2dab5a88282db823e027bbf"
+    "A": "Kunwarr",
+    "B": "1131",
+    "C": "https://i.scdn.co/image/ab67616100005174c3940551577c7ecf2d0af6af"
   },
   {
-    "A": "Daanish Martian De",
-    "B": "383",
-    "C": "https://i.scdn.co/image/ab676161000051743e2556ee6d7ffb4d4e8bf850"
+    "A": "Aparshakti Khurana",
+    "B": "1127",
+    "C": "https://i.scdn.co/image/ab67616100005174cccf87b774ca22ce0403b062"
   },
   {
-    "A": "Wilson E Paul",
-    "B": "372",
-    "C": "https://i.scdn.co/image/69439fffb615de39c6a24dd9aef4259003d7725b"
+    "A": "Sohail Sen",
+    "B": "1126",
+    "C": "https://i.scdn.co/image/ab6761610000517493129f8524598bf1ef06ddb7"
   },
   {
-    "A": "Ravi Chari",
-    "B": "364",
-    "C": "https://i.scdn.co/image/ab67616100005174a5153789987f5585c613ba7f"
+    "A": "Satinder Sartaaj",
+    "B": "1124",
+    "C": "https://i.scdn.co/image/ab67616100005174e9ebc5af995a559c6b73f978"
   },
   {
-    "A": "Durga Jasraj",
-    "B": "350",
-    "C": "https://i.scdn.co/image/ab67616d00001e0213731d0470e5de3931e92444"
+    "A": "Shubh",
+    "B": "1123",
+    "C": "https://i.scdn.co/image/ab676161000051749dfbd284ba8a7d4876a181e3"
   },
   {
-    "A": "Divya Lewis",
-    "B": "349",
-    "C": "https://i.scdn.co/image/ab67616100005174f62204a14d5343f03a91823e"
+    "A": "KK",
+    "B": "1122",
+    "C": "https://i.scdn.co/image/ab67616100005174b09a31f853166e721d4d46b2"
   },
   {
-    "A": "Shashank Khaitan",
-    "B": "342",
-    "C": "https://i.scdn.co/image/ab67616d00001e0227f0140bd3c662549a23ae30"
+    "A": "Josh Brar",
+    "B": "1120",
+    "C": "https://i.scdn.co/image/ab67616100005174ae033bdfaff1397157202624"
   },
   {
-    "A": "Karl Peters",
-    "B": "340",
-    "C": "https://i.scdn.co/image/ab67616d00001e0221bdeff2295b511a5c263667"
+    "A": "Asim Azhar",
+    "B": "1117",
+    "C": "https://i.scdn.co/image/ab67616100005174dbdfaf6a0ba400271538e9ae"
   },
   {
-    "A": "Mohan Wagh",
-    "B": "339",
-    "C": "https://i.scdn.co/image/ab67616d00001e02a5dea2a68eb7703db86bb0ae"
+    "A": "Ami Mishra",
+    "B": "1114",
+    "C": "https://i.scdn.co/image/ab676161000051744e641e44de261440295e9577"
   },
   {
-    "A": "Linda M Johny",
-    "B": "332",
-    "C": "https://i.scdn.co/image/ab676161000051747e0b6e9db0b1bf2f62a81638"
+    "A": "The Weeknd",
+    "B": "1113",
+    "C": "https://i.scdn.co/image/ab676161000051749e528993a2820267b97f6aae"
   },
   {
-    "A": "Calvin Vaz",
-    "B": "330",
-    "C": "https://i.scdn.co/image/ab676161000051748ebba5e60113b48de8c11f6b"
+    "A": "Ram Sampath",
+    "B": "1106",
+    "C": "https://i.scdn.co/image/ab67616100005174ed1f220551eded3711206fa4"
   },
   {
-    "A": "Sidhu Moose Wala",
-    "B": "313",
-    "C": "https://i.scdn.co/image/ab676161000051749973157bdaedef3f77ef8e13"
+    "A": "Tame Impala",
+    "B": "1103",
+    "C": "https://i.scdn.co/image/ab67616100005174e412a782245eb20d9626c601"
   },
   {
-    "A": "Archana Gore",
-    "B": "308",
-    "C": "https://i.scdn.co/image/ab67616d00001e021b43114e1dd90c04f8462c12"
+    "A": "Himesh Reshammiya",
+    "B": "1096",
+    "C": "https://i.scdn.co/image/ab676161000051742cfc402fa29cd2949023a8bf"
   },
   {
-    "A": "Ramesh Deo",
-    "B": "305",
-    "C": "https://i.scdn.co/image/ab67616d00001e023a73a4bc8773572640fbff20"
+    "A": "Nusrat Fateh Ali Khan",
+    "B": "1094",
+    "C": "https://i.scdn.co/image/ab6761610000517446444c5c2069fe5470bec996"
   },
   {
-    "A": "Ramhari Das",
-    "B": "296",
-    "C": "https://i.scdn.co/image/ab67616d00001e0216d64d570b84fa232dcde5fc"
+    "A": "Hiphop Tamizha",
+    "B": "1089",
+    "C": "https://i.scdn.co/image/ab6761610000517467a9c256bee82482d82f2716"
   },
   {
-    "A": "Partho Das",
-    "B": "293",
-    "C": "https://i.scdn.co/image/ab67616d00001e0288f223e43fdbd8721f07780d"
+    "A": "Sooraj Santhosh",
+    "B": "1087",
+    "C": "https://i.scdn.co/image/ab676161000051741bd321ac4d233a1a6438589c"
   },
   {
-    "A": "Lalmani Misra",
-    "B": "287",
-    "C": "https://i.scdn.co/image/ab67616d00001e02e44ff2f56cba1d42a83aa600"
+    "A": "Akhil Sachdeva",
+    "B": "1086",
+    "C": "https://i.scdn.co/image/ab676161000051740b5162a71d6f7914c81e5a05"
   },
   {
-    "A": "Saurabh Kadgaonkar",
-    "B": "284",
-    "C": "https://i.scdn.co/image/ab67616d00001e0269930713dc8de753387ef13f"
+    "A": "Manish Sonipat Aala",
+    "B": "1077",
+    "C": "https://i.scdn.co/image/ab676161000051743d325cb75c5c3d4ec583a15c"
   },
   {
-    "A": "Juhi Chawla",
-    "B": "282",
-    "C": "https://i.scdn.co/image/ab676161000051747cd2ae8b63864674c97e2ab0"
+    "A": "Harshit Saxena",
+    "B": "1076",
+    "C": "https://i.scdn.co/image/ab67616100005174ce852eaf14bdfe358112a648"
   },
   {
-    "A": "Megha Sravanthi",
-    "B": "271",
-    "C": "https://i.scdn.co/image/ab67616d00001e02031dc192265f0c8f6bb8b183"
+    "A": "Palak Muchhal",
+    "B": "1075",
+    "C": "https://i.scdn.co/image/ab676161000051740608ee2e47f6f470211831b9"
   },
   {
-    "A": "Beatz Boy",
-    "B": "266",
-    "C": "https://i.scdn.co/image/ab67616100005174dbdf1c90cb07533f90571c87"
+    "A": "Bintu Pabra",
+    "B": "1074",
+    "C": "https://i.scdn.co/image/ab676161000051746c829fc9ff87784db8a68371"
   },
   {
-    "A": "Yash Shende",
-    "B": "263",
-    "C": "https://i.scdn.co/image/ab676161000051745dccc6021ab93725efebb902"
+    "A": "Neeti Mohan",
+    "B": "1073",
+    "C": "https://i.scdn.co/image/ab67616100005174df4c091634eae599807271bb"
   },
   {
-    "A": "Arushi Jain",
-    "B": "262",
-    "C": "https://i.scdn.co/image/ab676161000051744f8a36cf39b9c8dcc5fcd40f"
+    "A": "Hariharan",
+    "B": "1071",
+    "C": "https://i.scdn.co/image/ab676161000051749042ffa2a66773410eca8870"
   },
   {
-    "A": "Joanne Foresta",
-    "B": "257",
-    "C": "https://i.scdn.co/image/ab67616d00001e02ad064e8bc4a69c8d8195df49"
+    "A": "Zain Zohaib",
+    "B": "1068",
+    "C": "https://i.scdn.co/image/ab67616100005174aa9effe3affd5a9dad488712"
   },
   {
-    "A": "Mahendra Sanghvi",
-    "B": "224",
-    "C": "https://i.scdn.co/image/ab67616d00001e024c89408a4a06ab2d7f36558c"
+    "A": "Maanu",
+    "B": "1063",
+    "C": "https://i.scdn.co/image/ab67616100005174a5126faf795f6348a9e6a430"
   },
   {
-    "A": "S KING",
-    "B": "215",
-    "C": "https://i.scdn.co/image/ab676161000051745c0b2129a88c7d6ed0704556"
+    "A": "Hellow Raja",
+    "B": "1061",
+    "C": "https://i.scdn.co/image/ab67616100005174a32052518906eee4a7fe4bc3"
   },
   {
-    "A": "Viraz Ahalan",
-    "B": "211",
-    "C": "https://i.scdn.co/image/ab67616100005174de393c833a4415aef9b85f9f"
+    "A": "Jind Universe",
+    "B": "1059",
+    "C": "https://i.scdn.co/image/ab6761610000517484ceb8cfa980a212241381ef"
   },
   {
-    "A": "Jennifer Winget",
-    "B": "210",
-    "C": "https://i.scdn.co/image/ab67616100005174af018a2d49a7c11a1bd78130"
+    "A": "Diljit Dosanjh",
+    "B": "1058",
+    "C": "https://i.scdn.co/image/ab67616100005174fc043bea91ac91c222d235c9"
   },
   {
-    "A": "Nida Fazli",
-    "B": "208",
-    "C": "https://i.scdn.co/image/ab67616d00001e02392b33b07f15766685d0b017"
+    "A": "ARJN",
+    "B": "1056",
+    "C": "https://i.scdn.co/image/ab67616100005174bdc56a7bca6e6e711875285d"
   },
   {
-    "A": "Anmol Dhiman",
-    "B": "208",
-    "C": "https://i.scdn.co/image/ab6761610000517447e5ba1702dc007ec3782a22"
+    "A": "The Rish",
+    "B": "1047",
+    "C": "https://i.scdn.co/image/ab6761610000517499421333a36b15dc064a0985"
   },
   {
-    "A": "Pav Dharia",
-    "B": "202",
-    "C": "https://i.scdn.co/image/ab67616100005174ed5bc3a466219a60ee2b3355"
+    "A": "G. V. Prakash",
+    "B": "1042",
+    "C": "https://i.scdn.co/image/ab676161000051740a5c692089af5c0f9cf839f3"
   },
   {
-    "A": "Durga Rangila",
-    "B": "202",
-    "C": "https://i.scdn.co/image/ab67616d00001e020884284ca7f005c034f4a620"
+    "A": "Anirudh Ravichander",
+    "B": "1040",
+    "C": "https://i.scdn.co/image/ab676161000051740f0be2054fe9594026a6b843"
   },
   {
-    "A": "Ramachari Komunduri",
-    "B": "197",
-    "C": "https://i.scdn.co/image/ab67616d00001e024fc38ab00c40c761d0b55ad2"
+    "A": "Alka Yagnik",
+    "B": "1038",
+    "C": "https://i.scdn.co/image/ab67616100005174935b2dd507212bd72a71d7f9"
   },
   {
-    "A": "Ananya Birla",
-    "B": "188",
-    "C": "https://i.scdn.co/image/ab6761610000517448727f5d65e79ff82468eace"
+    "A": "thiarajxtt",
+    "B": "1037",
+    "C": "https://i.scdn.co/image/ab67616100005174d419337055a2ed59242d4981"
   },
   {
-    "A": "Sandeep Patil",
-    "B": "181",
-    "C": "https://i.scdn.co/image/ab67616d00001e025bfe76bb2ae46af7e26735b1"
+    "A": "Zeeshan Ali",
+    "B": "1025",
+    "C": "https://i.scdn.co/image/ab67616100005174a02249809e78941d1eebb21e"
   },
   {
-    "A": "Ramesh Mishra",
-    "B": "181",
-    "C": "https://i.scdn.co/image/ab67616d00001e025a3efe652b69403e8bfe14b8"
+    "A": "Tanishk Bagchi",
+    "B": "1024",
+    "C": "https://i.scdn.co/image/ab6761610000517496f049daefd1875282baab0a"
   },
   {
-    "A": "Louis Banks",
-    "B": "181",
-    "C": "https://i.scdn.co/image/ab676161000051748459aa1f6941230eb4b33154"
+    "A": "Virat",
+    "B": "1022",
+    "C": "https://i.scdn.co/image/ab67616d00001e02d5e938b81196c3f19b78dce9"
   },
   {
-    "A": "Radhika Thilak",
-    "B": "179",
-    "C": "https://i.scdn.co/image/ab67616d00001e02fc81c500d70e52cfb79ba3c7"
-  },
-  {
-    "A": "Poorna M",
-    "B": "176",
-    "C": "https://i.scdn.co/image/ab67616100005174722d0d90fff7b80f6ec6a6a2"
-  },
-  {
-    "A": "Lijo George",
-    "B": "172",
-    "C": "https://i.scdn.co/image/ab67616d00001e026c5738f002f8a0735367e66f"
-  },
-  {
-    "A": "Franco Simon",
-    "B": "171",
-    "C": "https://i.scdn.co/image/ab676161000051744b2ca5e772070819ac32b022"
-  },
-  {
-    "A": "Sai Charan",
-    "B": "164",
-    "C": "https://i.scdn.co/image/ab676161000051740b8b2f0c757b4539a337076a"
-  },
-  {
-    "A": "Shwetang Shankar",
-    "B": "163",
-    "C": "https://i.scdn.co/image/ab67616100005174219fa152f822c0fb5704b6aa"
-  },
-  {
-    "A": "Jassie Gill",
-    "B": "158",
-    "C": "https://i.scdn.co/image/ab6761610000517471af3d58b075e1e893e58e74"
-  },
-  {
-    "A": "Stebin Ben",
-    "B": "152",
-    "C": "https://i.scdn.co/image/ab676161000051746206f2a502b4d331ea9d70ee"
-  },
-  {
-    "A": "Zakir Hussain",
-    "B": "150",
-    "C": "https://i.scdn.co/image/ab676161000051740b0764268407db8b3a218301"
-  },
-  {
-    "A": "Sahana Banerjee",
-    "B": "149",
-    "C": "https://i.scdn.co/image/ab67616100005174bc0f968b37aab6687826f7a4"
-  },
-  {
-    "A": "Maya Mahalingam",
-    "B": "146",
-    "C": "https://i.scdn.co/image/ab67616d00001e022583f692fc49471d1b69d21a"
-  },
-  {
-    "A": "Tejas Mahure",
-    "B": "146",
-    "C": "https://i.scdn.co/image/ab67616d00001e02902568b5ae82f0ab8516fc5f"
+    "A": "Kushagra",
+    "B": "1014",
+    "C": "https://i.scdn.co/image/ab6761610000517436727564ac48444dd9dfcb3b"
   }
 ]
