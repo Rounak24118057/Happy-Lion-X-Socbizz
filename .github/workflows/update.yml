@@ -1,0 +1,49 @@
+name: Update Music Data
+
+on:
+  schedule:
+    - cron: "30 18 * * *"   # 18:30 UTC = midnight IST every day
+  workflow_dispatch:          # manual trigger from GitHub Actions tab
+
+jobs:
+  scrape-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install Chrome
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Install Python dependencies
+        run: pip install -r requirements.txt
+
+      - name: Step 1 — Scrape top trending songs
+        run: python scripts/scrapper.py
+
+      - name: Step 2 — Scrape MusicBrainz for Indian artists
+        run: python scripts/scrape_musicbrainz.py
+
+      - name: Step 3 — Scrape kworb.net and rank Indian artists
+        run: python scripts/scrape_kworb.py
+
+      - name: Step 4 — Fetch artist images via Spotify
+        run: python scripts/fetch_images.py
+
+      - name: Commit and push updated data
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git diff --cached --quiet || git commit -m "Auto-update $(date +'%Y-%m-%d %H:%M IST')"
+          git push

@@ -1,0 +1,7 @@
+selenium
+beautifulsoup4
+pandas
+requests
+lxml
+webdriver-manager
+rapidfuzz
