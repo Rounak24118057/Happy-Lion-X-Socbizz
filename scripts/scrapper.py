@@ -31,7 +31,7 @@ def get_driver():
     return driver
 
 
-URL = "https://music.amazon.in/popular"
+URL = "https://music.amazon.in/popular/songs"
 
 
 def scrape_top_100():
