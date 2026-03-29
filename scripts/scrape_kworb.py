@@ -20,7 +20,7 @@ HEADERS = {
                   "Chrome/120.0.0.0 Safari/537.36"
 }
 
-MATCH_THRESHOLD = 85   # RAISED from 75 - only strong matches
+MATCH_THRESHOLD = 60   # RAISED from 75 - only strong matches
 TOP_N = 100
 
 # Blocklist for obvious false positives (generic words, non-artists)
