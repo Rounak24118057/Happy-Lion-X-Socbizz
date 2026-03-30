@@ -19,12 +19,12 @@ Live rankings of trending songs and top Indian artists, auto-updated daily.
 │   ├── scrape_kworb.py     
 │   └── fetch_images.py     
 └── .github/workflows/
-    └── update.yml          # GitHub Actions: runs daily at midnight IST
+    └── update.yml         # GitHub Actions: runs daily at midnight IST
 ```
 
 ## ⚙️ How It Works
 1. **GitHub Actions** triggers every day at midnight IST (18:30 UTC)
-2. Scrapes **Amazon Music** for top 100 trending songs → `data/data.json`
+2. Scrapes for top 100 trending songs → `data/data.json`
 3. Scrapes **MusicBrainz** for ~6000 Indian artist names → `data/indian_artists.json`
 4. Scrapes **kworb.net** for all 2000 artists + their iTunes Today scores
 5. **Fuzzy-matches** Indian artists against kworb list, ranks by Today score → `data/Top_Indian_Artist.json`
