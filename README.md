@@ -7,17 +7,17 @@ Live rankings of trending songs and top Indian artists, auto-updated daily.
 
 ## 📁 Structure
 ```
-├── index.html              # Top 100 trending songs (Amazon Music)
-├── Artist_Ranking.html     # Top Indian artists (ranked by kworb.net Today score)
+├── index.html              # Top 100 trending songs
+├── Artist_Ranking.html     # Top Indian artists 
 ├── data/
 │   ├── data.json           # Auto-updated songs data
 │   ├── Top_Indian_Artist.json  # Auto-updated artist rankings
 │   └── indian_artists.json # Indian artists list from MusicBrainz
 ├── scripts/
-│   ├── scrapper.py         # Scrapes Amazon Music top songs
-│   ├── scrape_musicbrainz.py  # Scrapes MusicBrainz for Indian artist names
-│   ├── scrape_kworb.py     # Scrapes kworb.net + ranks Indian artists by Today score
-│   └── fetch_images.py     # Fetches artist images from iTunes API
+│   ├── scrapper.py         
+│   ├── scrape_musicbrainz.py  
+│   ├── scrape_kworb.py     
+│   └── fetch_images.py     
 └── .github/workflows/
     └── update.yml          # GitHub Actions: runs daily at midnight IST
 ```
