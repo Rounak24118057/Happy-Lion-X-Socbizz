@@ -1,18 +1,13 @@
 [
   {
-    "Track": "Sahiba",
-    "Artists": "Aditya Rikhari",
-    "Image Url": "https://m.media-amazon.com/images/I/71o5ED813-L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
     "Track": "Bairan",
     "Artists": "Banjaare",
     "Image Url": "https://m.media-amazon.com/images/I/81QyC1O+OJL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Gehra Hua",
-    "Artists": "Shashwat Sachdev, Arijit Singh, Irshad Kamil & Armaan Khan",
-    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Sahiba",
+    "Artists": "Aditya Rikhari",
+    "Image Url": "https://m.media-amazon.com/images/I/71o5ED813-L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Jaiye Sajana",
@@ -20,8 +15,18 @@
     "Image Url": "https://m.media-amazon.com/images/I/91-8NIqECXL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Ishq Jalakar - Karvaan",
-    "Artists": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan, Irshad Kamil, Roshan & Sahir Ludhianvi",
+    "Track": "Gehra Hua",
+    "Artists": "Shashwat Sachdev, Arijit Singh, Irshad Kamil & Armaan Khan",
+    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Boyfriend",
+    "Artists": "Karan Aujla & Ikky",
+    "Image Url": "https://m.media-amazon.com/images/I/81javISQckL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Shararat",
+    "Artists": "Shashwat Sachdev, Madhubanti Bagchi & Jasmine Sandlas",
     "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
@@ -30,18 +35,13 @@
     "Image Url": "https://m.media-amazon.com/images/I/91-8NIqECXL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Boyfriend",
-    "Artists": "Karan Aujla & Ikky",
-    "Image Url": "https://m.media-amazon.com/images/I/81javISQckL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
     "Track": "Pavazha Malli (From \"Think Indie\")",
     "Artists": "Sai Abhyankkar, Shruti Haasan & Vivek",
     "Image Url": "https://m.media-amazon.com/images/I/A1CKWhCR5sL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Shararat",
-    "Artists": "Shashwat Sachdev, Madhubanti Bagchi & Jasmine Sandlas",
+    "Track": "Ishq Jalakar - Karvaan",
+    "Artists": "Shashwat Sachdev, Shahzad Ali, Subhadeep Das Chowdhury, Armaan Khan, Irshad Kamil, Roshan & Sahir Ludhianvi",
     "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
@@ -55,9 +55,9 @@
     "Image Url": "https://m.media-amazon.com/images/I/71YedMcYIlL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Saiyaara (From \"Saiyaara\")",
-    "Artists": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami & Irshad Kamil",
-    "Image Url": "https://m.media-amazon.com/images/I/81ay15JqmEL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Raga of Revenge (From \"DC\")",
+    "Artists": "Anirudh Ravichander",
+    "Image Url": "https://m.media-amazon.com/images/I/812uppc98gL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Arz Kiya Hai | Coke Studio Bharat",
@@ -65,19 +65,19 @@
     "Image Url": "https://m.media-amazon.com/images/I/71H-9keif4L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Raga of Revenge (From \"DC\")",
-    "Artists": "Anirudh Ravichander",
-    "Image Url": "https://m.media-amazon.com/images/I/812uppc98gL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Saiyaara (From \"Saiyaara\")",
+    "Artists": "Tanishk Bagchi, Faheem Abdullah, Arslan Nizami & Irshad Kamil",
+    "Image Url": "https://m.media-amazon.com/images/I/81ay15JqmEL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Hanuman Chalisa (Lofi)",
+    "Artists": "Rasraj Ji Maharaj",
+    "Image Url": "https://m.media-amazon.com/images/I/81-ilEEcoYL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Barbaad (From \"Saiyaara\")",
     "Artists": "The Rish & Jubin Nautiyal",
     "Image Url": "https://m.media-amazon.com/images/I/71UIgGM15pL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Lutt Le Gaya",
-    "Artists": "Shashwat Sachdev & Simran Choudhary",
-    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Mashooqa (From “Cocktail 2”)",
@@ -90,19 +90,14 @@
     "Image Url": "https://m.media-amazon.com/images/I/71Ljg8+EgDL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Udi Udi",
-    "Artists": "Aneesh, Sarkar & Hruday",
-    "Image Url": "https://m.media-amazon.com/images/I/81NtCVVNiFL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Lutt Le Gaya",
+    "Artists": "Shashwat Sachdev & Simran Choudhary",
+    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Finding Her",
-    "Artists": "Kushagra, Bharath & Saaheal",
-    "Image Url": "https://m.media-amazon.com/images/I/71X1Xjry86L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Tum Ho Toh (From \"Saiyaara\")",
-    "Artists": "Vishal Mishra, Hansika Pareek & Raj Shekhar",
-    "Image Url": "https://m.media-amazon.com/images/I/71gsd5D3j9L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Namami Shamishan",
+    "Artists": "Religious India",
+    "Image Url": "https://m.media-amazon.com/images/I/717oorVb4VL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Majboor",
@@ -110,9 +105,19 @@
     "Image Url": "https://m.media-amazon.com/images/I/91ONhaBUOBL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Tujhko (From “Cocktail 2”)",
-    "Artists": "Pritam, Arijit Singh, Sunidhi Chauhan & Amitabh Bhattacharya",
-    "Image Url": "https://m.media-amazon.com/images/I/61d2HoCPemL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Finding Her",
+    "Artists": "Kushagra, Bharath & Saaheal",
+    "Image Url": "https://m.media-amazon.com/images/I/71X1Xjry86L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Udi Udi",
+    "Artists": "Aneesh, Sarkar & Hruday",
+    "Image Url": "https://m.media-amazon.com/images/I/81NtCVVNiFL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Tum Ho Toh (From \"Saiyaara\")",
+    "Artists": "Vishal Mishra, Hansika Pareek & Raj Shekhar",
+    "Image Url": "https://m.media-amazon.com/images/I/71gsd5D3j9L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Khat",
@@ -125,24 +130,14 @@
     "Image Url": "https://m.media-amazon.com/images/I/81JMFVEinDL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Shararat (From \"Dhurandhar\")",
-    "Artists": "Shashwat Sachdev, Madhubanti Bagchi & Jasmine Sandlas",
-    "Image Url": "https://m.media-amazon.com/images/I/814RIJ5bQWL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Lutt Le Gaya",
+    "Artists": "Shashwat Sachdev & Simran Choudhary",
+    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Udi Udi",
-    "Artists": "Aneesh, Sarkar & Hruday",
-    "Image Url": "https://m.media-amazon.com/images/I/81NtCVVNiFL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Finding Her",
-    "Artists": "Kushagra, Bharath & Saaheal",
-    "Image Url": "https://m.media-amazon.com/images/I/71X1Xjry86L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Tum Ho Toh (From \"Saiyaara\")",
-    "Artists": "Vishal Mishra, Hansika Pareek & Raj Shekhar",
-    "Image Url": "https://m.media-amazon.com/images/I/71gsd5D3j9L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Namami Shamishan",
+    "Artists": "Religious India",
+    "Image Url": "https://m.media-amazon.com/images/I/717oorVb4VL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Majboor",
@@ -150,9 +145,19 @@
     "Image Url": "https://m.media-amazon.com/images/I/91ONhaBUOBL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Tujhko (From “Cocktail 2”)",
-    "Artists": "Pritam, Arijit Singh, Sunidhi Chauhan & Amitabh Bhattacharya",
-    "Image Url": "https://m.media-amazon.com/images/I/61d2HoCPemL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Finding Her",
+    "Artists": "Kushagra, Bharath & Saaheal",
+    "Image Url": "https://m.media-amazon.com/images/I/71X1Xjry86L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Udi Udi",
+    "Artists": "Aneesh, Sarkar & Hruday",
+    "Image Url": "https://m.media-amazon.com/images/I/81NtCVVNiFL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Tum Ho Toh (From \"Saiyaara\")",
+    "Artists": "Vishal Mishra, Hansika Pareek & Raj Shekhar",
+    "Image Url": "https://m.media-amazon.com/images/I/71gsd5D3j9L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Khat",
@@ -165,24 +170,14 @@
     "Image Url": "https://m.media-amazon.com/images/I/81JMFVEinDL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Shararat (From \"Dhurandhar\")",
-    "Artists": "Shashwat Sachdev, Madhubanti Bagchi & Jasmine Sandlas",
-    "Image Url": "https://m.media-amazon.com/images/I/814RIJ5bQWL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Tujhko (From “Cocktail 2”)",
+    "Artists": "Pritam, Arijit Singh, Sunidhi Chauhan & Amitabh Bhattacharya",
+    "Image Url": "https://m.media-amazon.com/images/I/61d2HoCPemL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
-    "Artists": "Mitraz",
-    "Image Url": "https://m.media-amazon.com/images/I/91kNfOvA9nL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Phir Se",
-    "Artists": "Shashwat Sachdev, Arijit Singh & Irshad Kamil",
-    "Image Url": "https://m.media-amazon.com/images/I/91-8NIqECXL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Hanuman Chalisa (Lofi)",
-    "Artists": "Rasraj Ji Maharaj",
-    "Image Url": "https://m.media-amazon.com/images/I/81-ilEEcoYL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Punha Punha (From \"Tumbadchi Manjula\")",
+    "Artists": "Hariharan, Nidhi Hegde, Saurabh Bhalerao & Manoj Yadav",
+    "Image Url": "https://m.media-amazon.com/images/I/815KSmdrWRL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Tere Liye (From \"Prince\") [Jhankar]",
@@ -195,29 +190,19 @@
     "Image Url": "https://m.media-amazon.com/images/I/71XA4dhU59L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Oorum Blood (From \"Dude\")",
-    "Artists": "Sai Abhyankkar, PAAL DABBA, bebhumika & Deepthi Suresh",
-    "Image Url": "https://m.media-amazon.com/images/I/91EqOqXeZsL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Jhol - Acoustic",
+    "Artists": "Maanu, Annural Khalid & Abdullah Siddiqui",
+    "Image Url": "https://m.media-amazon.com/images/I/914JRs3d4lL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Mutta Kalakki (From \"Youth\")",
-    "Artists": "G.V.Prakash Kumar & Ken Karunaas",
-    "Image Url": "https://m.media-amazon.com/images/I/91hlNWgeWUL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
+    "Artists": "Mitraz",
+    "Image Url": "https://m.media-amazon.com/images/I/91kNfOvA9nL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Rasputin",
-    "Artists": "Boney M.",
-    "Image Url": "https://m.media-amazon.com/images/I/71vWtGRZsIL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "KALYANI",
-    "Artists": "ARJN, KDS, FIFTY4 & Ronn",
-    "Image Url": "https://m.media-amazon.com/images/I/717NQFCCtPL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Ramba Ho",
-    "Artists": "Shashwat Sachdev, Madhubanti Bagchi, Bappi Lahiri & Indiwar",
-    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Phir Se",
+    "Artists": "Shashwat Sachdev, Arijit Singh & Irshad Kamil",
+    "Image Url": "https://m.media-amazon.com/images/I/91-8NIqECXL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Aaya Sher (From \"The Paradise\") (Telugu)",
@@ -225,34 +210,44 @@
     "Image Url": "https://m.media-amazon.com/images/I/81bPn3NaqQL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
+    "Track": "Oorum Blood (From \"Dude\")",
+    "Artists": "Sai Abhyankkar, PAAL DABBA, bebhumika & Deepthi Suresh",
+    "Image Url": "https://m.media-amazon.com/images/I/91EqOqXeZsL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "KALYANI",
+    "Artists": "ARJN, KDS, FIFTY4 & Ronn",
+    "Image Url": "https://m.media-amazon.com/images/I/717NQFCCtPL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Rasputin",
+    "Artists": "Boney M.",
+    "Image Url": "https://m.media-amazon.com/images/I/71vWtGRZsIL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Pal Pal (with Talwiinder)",
+    "Artists": "Afusic, Talwiinder & AliSoomroMusic",
+    "Image Url": "https://m.media-amazon.com/images/I/81ETLSf-niL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Dil Lagana Mana Tha",
+    "Artists": "Krish Mondal, Kishore Mondal, Kunaal Vermaa & Devv Sadaana",
+    "Image Url": "https://m.media-amazon.com/images/I/71aso-PNH+L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Mutta Kalakki (From \"Youth\")",
+    "Artists": "G.V.Prakash Kumar & Ken Karunaas",
+    "Image Url": "https://m.media-amazon.com/images/I/91hlNWgeWUL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
     "Track": "Main Aur Tu",
     "Artists": "Shashwat Sachdev, Jasmine Sandlas & Reble",
     "Image Url": "https://m.media-amazon.com/images/I/91-8NIqECXL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Jhol - Acoustic",
-    "Artists": "Maanu, Annural Khalid & Abdullah Siddiqui",
-    "Image Url": "https://m.media-amazon.com/images/I/914JRs3d4lL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Pal Pal (with Talwiinder)",
-    "Artists": "Afusic, Talwiinder & AliSoomroMusic",
-    "Image Url": "https://m.media-amazon.com/images/I/81ETLSf-niL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Apna Bana Le",
-    "Artists": "Sachin-Jigar & Arijit Singh",
-    "Image Url": "https://m.media-amazon.com/images/I/71oWZuj9iuL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Tum Se Hi",
-    "Artists": "Mohit Chauhan, Pritam & Irshad Kamil",
-    "Image Url": "https://m.media-amazon.com/images/I/8172qH3GDUL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Punha Punha (From \"Tumbadchi Manjula\")",
-    "Artists": "Hariharan, Nidhi Hegde, Saurabh Bhalerao & Manoj Yadav",
-    "Image Url": "https://m.media-amazon.com/images/I/815KSmdrWRL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Shararat (From \"Dhurandhar\")",
+    "Artists": "Shashwat Sachdev, Madhubanti Bagchi & Jasmine Sandlas",
+    "Image Url": "https://m.media-amazon.com/images/I/814RIJ5bQWL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Raanjhan",
@@ -260,34 +255,9 @@
     "Image Url": "https://m.media-amazon.com/images/I/916h8lhukKL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Dil Lagana Mana Tha",
-    "Artists": "Krish Mondal, Kishore Mondal, Kunaal Vermaa & Devv Sadaana",
-    "Image Url": "https://m.media-amazon.com/images/I/71aso-PNH+L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Gehra Hua (From \"Dhurandhar\")",
-    "Artists": "Arijit Singh, Armaan Khan & Shashwat Sachdev",
-    "Image Url": "https://m.media-amazon.com/images/I/81nwlOXzfIL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Aura 10/10 (From \"Meesaya Murukku 2\")",
-    "Artists": "Hiphop Tamizha & Thamizh Aadhavan",
-    "Image Url": "https://m.media-amazon.com/images/I/81jXP0Mn2JL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Karuppa Kooda Va (From \"Karuppu\")",
-    "Artists": "Sai Abhyankkar, V.M. Mahalingam & Pa. Vijay",
-    "Image Url": "https://m.media-amazon.com/images/I/81hGy9qtuOL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Jhol - Acoustic",
-    "Artists": "Maanu, Annural Khalid & Abdullah Siddiqui",
-    "Image Url": "https://m.media-amazon.com/images/I/914JRs3d4lL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Pal Pal (with Talwiinder)",
-    "Artists": "Afusic, Talwiinder & AliSoomroMusic",
-    "Image Url": "https://m.media-amazon.com/images/I/81ETLSf-niL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Ramba Ho",
+    "Artists": "Shashwat Sachdev, Madhubanti Bagchi, Bappi Lahiri & Indiwar",
+    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Apna Bana Le",
@@ -295,19 +265,19 @@
     "Image Url": "https://m.media-amazon.com/images/I/71oWZuj9iuL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Tum Se Hi",
-    "Artists": "Mohit Chauhan, Pritam & Irshad Kamil",
-    "Image Url": "https://m.media-amazon.com/images/I/8172qH3GDUL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Hanuman Chalisa (From \"HanuMan\") [Hindi]",
+    "Artists": "GowraHari & Sai Charan",
+    "Image Url": "https://m.media-amazon.com/images/I/918MSmW-QRL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Punha Punha (From \"Tumbadchi Manjula\")",
-    "Artists": "Hariharan, Nidhi Hegde, Saurabh Bhalerao & Manoj Yadav",
-    "Image Url": "https://m.media-amazon.com/images/I/815KSmdrWRL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Alakh Niranjan",
+    "Artists": "Aditya",
+    "Image Url": "https://m.media-amazon.com/images/I/71Bk0JIVTjL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Raanjhan",
-    "Artists": "Sachet-Parampara, Parampara Tandon & Kausar Munir",
-    "Image Url": "https://m.media-amazon.com/images/I/916h8lhukKL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Karuppa Kooda Va (From \"Karuppu\")",
+    "Artists": "Sai Abhyankkar, V.M. Mahalingam & Pa. Vijay",
+    "Image Url": "https://m.media-amazon.com/images/I/81hGy9qtuOL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Dil Lagana Mana Tha",
@@ -315,19 +285,54 @@
     "Image Url": "https://m.media-amazon.com/images/I/71aso-PNH+L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Gehra Hua (From \"Dhurandhar\")",
-    "Artists": "Arijit Singh, Armaan Khan & Shashwat Sachdev",
-    "Image Url": "https://m.media-amazon.com/images/I/81nwlOXzfIL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Mutta Kalakki (From \"Youth\")",
+    "Artists": "G.V.Prakash Kumar & Ken Karunaas",
+    "Image Url": "https://m.media-amazon.com/images/I/91hlNWgeWUL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Aura 10/10 (From \"Meesaya Murukku 2\")",
-    "Artists": "Hiphop Tamizha & Thamizh Aadhavan",
-    "Image Url": "https://m.media-amazon.com/images/I/81jXP0Mn2JL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Main Aur Tu",
+    "Artists": "Shashwat Sachdev, Jasmine Sandlas & Reble",
+    "Image Url": "https://m.media-amazon.com/images/I/91-8NIqECXL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Shararat (From \"Dhurandhar\")",
+    "Artists": "Shashwat Sachdev, Madhubanti Bagchi & Jasmine Sandlas",
+    "Image Url": "https://m.media-amazon.com/images/I/814RIJ5bQWL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Raanjhan",
+    "Artists": "Sachet-Parampara, Parampara Tandon & Kausar Munir",
+    "Image Url": "https://m.media-amazon.com/images/I/916h8lhukKL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Ramba Ho",
+    "Artists": "Shashwat Sachdev, Madhubanti Bagchi, Bappi Lahiri & Indiwar",
+    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Apna Bana Le",
+    "Artists": "Sachin-Jigar & Arijit Singh",
+    "Image Url": "https://m.media-amazon.com/images/I/71oWZuj9iuL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Hanuman Chalisa (From \"HanuMan\") [Hindi]",
+    "Artists": "GowraHari & Sai Charan",
+    "Image Url": "https://m.media-amazon.com/images/I/918MSmW-QRL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Alakh Niranjan",
+    "Artists": "Aditya",
+    "Image Url": "https://m.media-amazon.com/images/I/71Bk0JIVTjL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Karuppa Kooda Va (From \"Karuppu\")",
     "Artists": "Sai Abhyankkar, V.M. Mahalingam & Pa. Vijay",
     "Image Url": "https://m.media-amazon.com/images/I/81hGy9qtuOL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Tum Se Hi",
+    "Artists": "Mohit Chauhan, Pritam & Irshad Kamil",
+    "Image Url": "https://m.media-amazon.com/images/I/8172qH3GDUL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "God Mode (From \"Karuppu\")",
@@ -335,14 +340,9 @@
     "Image Url": "https://m.media-amazon.com/images/I/91Q5kyYQ8GL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "FA9LA",
-    "Artists": "Flipperachi",
-    "Image Url": "https://m.media-amazon.com/images/I/81ZZs0nMF2L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "With You",
-    "Artists": "AP Dhillon",
-    "Image Url": "https://m.media-amazon.com/images/I/81nDmi8h-6L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Kaun Kehte Hain Bhagwan Aate Nahi (Achyutam Keshavam) [From \"Kaun Kehte Hain Bhagwan Aate Nahi (Achyutam Keshavam)\"]",
+    "Artists": "Tulsi Kumar, Jubin Nautiyal, Payal Dev & Rashmi Virag",
+    "Image Url": "https://m.media-amazon.com/images/I/81EfkejuKsL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Softly",
@@ -350,24 +350,19 @@
     "Image Url": "https://m.media-amazon.com/images/I/A1hdH6+mSNL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Lover",
-    "Artists": "Diljit Dosanjh",
-    "Image Url": "https://m.media-amazon.com/images/I/91K0CjBNChL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Radha Gori Gori",
+    "Artists": "Indresh Upadhyay & B Praak",
+    "Image Url": "https://m.media-amazon.com/images/I/719ulwNHU9L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Bangles",
-    "Artists": "Sanju Rathod & G-SPXRK",
-    "Image Url": "https://m.media-amazon.com/images/I/91HgG9T7yxL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "With You",
+    "Artists": "AP Dhillon",
+    "Image Url": "https://m.media-amazon.com/images/I/81nDmi8h-6L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Sundari",
-    "Artists": "Sanju Rathod & G-SPXRK",
-    "Image Url": "https://m.media-amazon.com/images/I/91XLbwTie0L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Namami Shamishan",
-    "Artists": "Religious India",
-    "Image Url": "https://m.media-amazon.com/images/I/717oorVb4VL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Ishqa Ve",
+    "Artists": "zeeshan ali, Yuvraj Tung, Sandeep Aulakh & Honey Dhillon",
+    "Image Url": "https://m.media-amazon.com/images/I/81AzgyxMYnL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Ishq Hai",
@@ -375,34 +370,14 @@
     "Image Url": "https://m.media-amazon.com/images/I/91sfOzcDaXL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Heeriye (feat. Arijit Singh)",
-    "Artists": "Jasleen Royal, Arijit Singh & Dulquer Salmaan",
-    "Image Url": "https://m.media-amazon.com/images/I/91zXAoxNXFL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Dhak Dhak Reloaded",
+    "Artists": "Akshay & IP, Anand-Milind, Anuradha Paudwal, Udit Narayan, Nupoor Khedkar, Sameer & IP Singh",
+    "Image Url": "https://m.media-amazon.com/images/I/91sWsz-mDCL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Run Down The City - Monica",
-    "Artists": "Shashwat Sachdev, Reble, Asha Bhosle, R. D. Burman & Majrooh Sultanpuri",
-    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Soni Soni (From \"Ishq Vishk Rebound\")",
-    "Artists": "Darshan Raval, Jonita Gandhi, Rochak Kohli & Gurpreet Saini",
-    "Image Url": "https://m.media-amazon.com/images/I/81d8FVhh3uL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Ishqa Ve",
-    "Artists": "zeeshan ali, Yuvraj Tung, Sandeep Aulakh & Honey Dhillon",
-    "Image Url": "https://m.media-amazon.com/images/I/81AzgyxMYnL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Pani Da Rang (Male)",
-    "Artists": "Ayushmann Khurrana & Rochak Kohli",
-    "Image Url": "https://m.media-amazon.com/images/I/713Eku9R1KL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Gulabi Sadi",
-    "Artists": "Sanju Rathod & G-Spark",
-    "Image Url": "https://m.media-amazon.com/images/I/71LEFnH3H8L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Lover",
+    "Artists": "Diljit Dosanjh",
+    "Image Url": "https://m.media-amazon.com/images/I/91K0CjBNChL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Jo Tum Mere Ho",
@@ -410,29 +385,34 @@
     "Image Url": "https://m.media-amazon.com/images/I/7138xUq+JxL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
+    "Track": "Chhai Chhapa Chhai (Lofi Mix)",
+    "Artists": "Abhimanyu-Pragya, Lata Mangeshkar & Hariharan",
+    "Image Url": "https://m.media-amazon.com/images/I/9173VX7tl6L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+    "Artists": "Hiphop Tamizha & Thamizh Aadhavan",
+    "Image Url": "https://m.media-amazon.com/images/I/81jXP0Mn2JL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Shri Krishna Govind Hare Murari (From \"Shri Krishna Govind Hare Murari\")",
+    "Artists": "Jubin Nautiyal, Raaj Aashoo & Murali Agarwal",
+    "Image Url": "https://m.media-amazon.com/images/I/81EfkejuKsL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Sundari",
+    "Artists": "Sanju Rathod & G-SPXRK",
+    "Image Url": "https://m.media-amazon.com/images/I/91XLbwTie0L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Gehra Hua (From \"Dhurandhar\")",
+    "Artists": "Arijit Singh, Armaan Khan & Shashwat Sachdev",
+    "Image Url": "https://m.media-amazon.com/images/I/81nwlOXzfIL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
     "Track": "Ishq (From \"Lost;Found\")",
     "Artists": "Faheem Abdullah, Rauhan Malik & Amir Ameer",
     "Image Url": "https://m.media-amazon.com/images/I/71807RiAFlL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Dai Dai",
-    "Artists": "Shakira & Burna Boy",
-    "Image Url": "https://m.media-amazon.com/images/I/711xCa9JfhL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Radha Gori Gori",
-    "Artists": "Indresh Upadhyay & B Praak",
-    "Image Url": "https://m.media-amazon.com/images/I/719ulwNHU9L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
-    "Artists": "Bunny, Hunny & Sagar",
-    "Image Url": "https://m.media-amazon.com/images/I/711Ds7nQ9qL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Run Down The City - Monica",
-    "Artists": "Shashwat Sachdev, Reble, Asha Bhosle, R. D. Burman & Majrooh Sultanpuri",
-    "Image Url": "https://m.media-amazon.com/images/I/81vlErNtimL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Soni Soni (From \"Ishq Vishk Rebound\")",
@@ -440,29 +420,9 @@
     "Image Url": "https://m.media-amazon.com/images/I/81d8FVhh3uL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Ishqa Ve",
-    "Artists": "zeeshan ali, Yuvraj Tung, Sandeep Aulakh & Honey Dhillon",
-    "Image Url": "https://m.media-amazon.com/images/I/81AzgyxMYnL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Pani Da Rang (Male)",
-    "Artists": "Ayushmann Khurrana & Rochak Kohli",
-    "Image Url": "https://m.media-amazon.com/images/I/713Eku9R1KL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Gulabi Sadi",
-    "Artists": "Sanju Rathod & G-Spark",
-    "Image Url": "https://m.media-amazon.com/images/I/71LEFnH3H8L._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Jo Tum Mere Ho",
-    "Artists": "Anuv Jain",
-    "Image Url": "https://m.media-amazon.com/images/I/7138xUq+JxL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Ishq (From \"Lost;Found\")",
-    "Artists": "Faheem Abdullah, Rauhan Malik & Amir Ameer",
-    "Image Url": "https://m.media-amazon.com/images/I/71807RiAFlL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "FA9LA",
+    "Artists": "Flipperachi",
+    "Image Url": "https://m.media-amazon.com/images/I/81ZZs0nMF2L._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "Dai Dai",
@@ -470,14 +430,64 @@
     "Image Url": "https://m.media-amazon.com/images/I/711xCa9JfhL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Radha Gori Gori",
-    "Artists": "Indresh Upadhyay & B Praak",
-    "Image Url": "https://m.media-amazon.com/images/I/719ulwNHU9L._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Jo Tum Mere Ho",
+    "Artists": "Anuv Jain",
+    "Image Url": "https://m.media-amazon.com/images/I/7138xUq+JxL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Tu Hain Toh (From \"Mr. And Mrs. Mahi\")",
-    "Artists": "Bunny, Hunny & Sagar",
-    "Image Url": "https://m.media-amazon.com/images/I/711Ds7nQ9qL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Chhai Chhapa Chhai (Lofi Mix)",
+    "Artists": "Abhimanyu-Pragya, Lata Mangeshkar & Hariharan",
+    "Image Url": "https://m.media-amazon.com/images/I/9173VX7tl6L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Aura 10/10 (From \"Meesaya Murukku 2\")",
+    "Artists": "Hiphop Tamizha & Thamizh Aadhavan",
+    "Image Url": "https://m.media-amazon.com/images/I/81jXP0Mn2JL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Shri Krishna Govind Hare Murari (From \"Shri Krishna Govind Hare Murari\")",
+    "Artists": "Jubin Nautiyal, Raaj Aashoo & Murali Agarwal",
+    "Image Url": "https://m.media-amazon.com/images/I/81EfkejuKsL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Sundari",
+    "Artists": "Sanju Rathod & G-SPXRK",
+    "Image Url": "https://m.media-amazon.com/images/I/91XLbwTie0L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Gehra Hua (From \"Dhurandhar\")",
+    "Artists": "Arijit Singh, Armaan Khan & Shashwat Sachdev",
+    "Image Url": "https://m.media-amazon.com/images/I/81nwlOXzfIL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Ishq (From \"Lost;Found\")",
+    "Artists": "Faheem Abdullah, Rauhan Malik & Amir Ameer",
+    "Image Url": "https://m.media-amazon.com/images/I/71807RiAFlL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Soni Soni (From \"Ishq Vishk Rebound\")",
+    "Artists": "Darshan Raval, Jonita Gandhi, Rochak Kohli & Gurpreet Saini",
+    "Image Url": "https://m.media-amazon.com/images/I/81d8FVhh3uL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "FA9LA",
+    "Artists": "Flipperachi",
+    "Image Url": "https://m.media-amazon.com/images/I/81ZZs0nMF2L._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Dai Dai",
+    "Artists": "Shakira & Burna Boy",
+    "Image Url": "https://m.media-amazon.com/images/I/711xCa9JfhL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Bangles",
+    "Artists": "Sanju Rathod & G-SPXRK",
+    "Image Url": "https://m.media-amazon.com/images/I/91HgG9T7yxL._SX472_SY472_BL0_QL100_.jpg"
+  },
+  {
+    "Track": "Shri Ganpati Stotra",
+    "Artists": "Suresh Wadkar",
+    "Image Url": "https://m.media-amazon.com/images/I/81R4Arae-PL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
     "Track": "O Meri Laila",
@@ -485,18 +495,8 @@
     "Image Url": "https://m.media-amazon.com/images/I/81oHaddb1sL._SX472_SY472_BL0_QL100_.jpg"
   },
   {
-    "Track": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
-    "Artists": "Aditya Rikhari, Tulsi Kumar & Lijo George-Dj Chetas",
-    "Image Url": "https://m.media-amazon.com/images/I/71Fgxgq4cCL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Ve Haaniyaan",
-    "Artists": "Danny, Avvy Sra & Sagar",
-    "Image Url": "https://m.media-amazon.com/images/I/81oXuwq2YhL._SX472_SY472_BL0_QL100_.jpg"
-  },
-  {
-    "Track": "Thinking of You",
-    "Artists": "AP Dhillon",
-    "Image Url": "https://m.media-amazon.com/images/I/615U7nblfmL._SX472_SY472_BL0_QL100_.jpg"
+    "Track": "Lingashtakam",
+    "Artists": "S. P. Balasubrahmanyam",
+    "Image Url": "https://m.media-amazon.com/images/I/71GT6S6ymhL._SX472_SY472_BL0_QL100_.jpg"
   }
 ]
